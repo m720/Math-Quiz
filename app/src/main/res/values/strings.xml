@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Math_Quiz_App</string>
+    <string name="Q1">1+1=2</string>
+    <string name="Q2">2+6=9</string>
+    <string name="Q3">4-3=5</string>
+    <string name="Q4">25*3=75</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Correct_Toast">Correct !</string>
+    <string name="Incorrect_Toast">Wrong</string>
+    <string name="Next">next</string>
+    <string name="previous">previous</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="Not_cheater">Not cheater</string>
+    <string name="Is_cheater">cheater !</string>
+</resources>
